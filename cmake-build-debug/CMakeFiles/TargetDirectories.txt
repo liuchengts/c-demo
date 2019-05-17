@@ -1,0 +1,3 @@
+/Users/liucheng/it/code/c-demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liucheng/it/code/c-demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liucheng/it/code/c-demo/cmake-build-debug/CMakeFiles/c_demo.dir
